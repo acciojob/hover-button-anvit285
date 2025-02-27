@@ -1,11 +1,14 @@
 
 /* Your CSS Code here. */
 #btn{
-	Background color:black;
-	Font-colot:white;
-	Border-Radious:5px;
-	Border:none;
-	Button-type:submit;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
 }
 
 #btn:Hover
