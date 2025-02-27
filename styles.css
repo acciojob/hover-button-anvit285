@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+#btn{
+	Background color:black;
+	Font-colot:white;
+	Border-Radious:5px;
+	Border:none;
+	Button-type:submit;
+}
+
+#btn:Hover
+{
+	Background-color:yellow;
+	Font-color:black;
+	Border-Raius:30px;
+}
